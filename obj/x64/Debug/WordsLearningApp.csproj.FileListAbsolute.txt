@@ -1,0 +1,57 @@
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\packages\SourceGear.sqlite3.3.50.4.5\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\words.db
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\WordsLearningApp.exe.config
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\WordsLearningApp.exe
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\WordsLearningApp.pdb
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.core.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Buffers.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Data.SqlClient.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Memory.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Buffers.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Data.SqlClient.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Memory.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.AssemblyReference.cache
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.Properties.Resources.resources
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.GenerateResource.cache
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLea.16BC4772.Up2Date
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.exe
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.pdb
+C:\Users\danulka\Desktop\proizv_practica\WordsLearningApp\obj\x64\Debug\WordsLearningApp.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\words.db
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\packages\SourceGear.sqlite3.3.50.4.5\runtimes\win-x64\native\e_sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\WordsLearningApp.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\WordsLearningApp.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\WordsLearningApp.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\Microsoft.Data.Sqlite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.batteries_v2.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.core.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Buffers.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Data.SqlClient.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Memory.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Numerics.Vectors.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\Microsoft.Data.Sqlite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Buffers.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Data.SqlClient.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Memory.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Numerics.Vectors.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLea.16BC4772.Up2Date
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Влада\WordsLearningApp\obj\x64\Debug\WordsLearningApp.pdb
